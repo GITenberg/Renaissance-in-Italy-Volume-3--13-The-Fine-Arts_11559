@@ -1,5 +1,8 @@
 _repo: Renaissance-in-Italy-Volume-3--13-The-Fine-Arts_11559
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Symonds, John Addington
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11559#Renaissance-in-Italy-Volume-3--13-The-Fine-Arts
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
